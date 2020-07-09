@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-![](https://media1.tenor.com/images/23aeaaa34afd591deee6c163c96cb0ee/tenor.gif?itemid=7220603)
+[ˈɑlin ʃteˈfan]
+
+I'm a software engineer working for [LEGO Group](https://lego.com/) in Billund, Denmark.
