@@ -2,7 +2,7 @@
 
 [[ˈɑlin ʃteˈfan]](http://ipa-reader.xyz/?text=%5B%CB%88%C9%91lin%20%CA%83te%CB%88fan%5D)
 
-I'm some guy on the internet who writes wacky words in a coloured text editor by day and stares at deployments at night. Apparently I'm a full-stack software engineer with main focus on DevOps, infrastructure and security. Some say I'm an [awesome.engineer](https://awesome.engineer) (paid a pretty penny for that domain name so get to not use it 🙈)
+I'm some guy on the internet who writes wacky words in a coloured text editor by day and stares at deployments at night. Apparently I'm a full-stack software engineer with main focus on DevOps, infrastructure and security. Some say I'm an [awesome.engineer](https://awesome.engineer) (paid a pretty penny for that domain name to get to not use it 🙈)
 
 Want to stalk my activity online? I'm giving you the following methods:
 
