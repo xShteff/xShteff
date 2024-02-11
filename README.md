@@ -7,11 +7,10 @@ I'm some guy on the internet who writes wacky words in a coloured text editor by
 Want to stalk my activity online? I'm giving you the following methods:
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alinstefanolaru/)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xShteff)
+[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xShteff)
 [![](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://awesome.engineer/)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alinstefanolaru)
 
-(Badges borrowed from https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xShteff&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[//]: <> (Badges borrowed from https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
-(Fancy trophy thing here: https://github.com/ryo-ma/github-profile-trophy)
